@@ -15,7 +15,7 @@ import org.slf4j.LoggerFactory;
 public class Crawler {
 	private static final String USO = "java -jar Crawler.jar -i <fileName> [-v | --verbose]\n";
 	private static final String CABECERA = "Obtiene perfiles de linekdin a partir de los apellidos del fichero csv\n\n\n";
-	private static final String PIE = "\nSynergic Partnerts 2013 - www.synergicpartnerts.com";
+	private static final String PIE = "\njcorredera 2013 - www.java-samurai.es";
 	
 	private static Logger log = LoggerFactory.getLogger(Crawler.class);
 
